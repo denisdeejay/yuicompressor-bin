@@ -1,6 +1,7 @@
 {
     "name": "denisdeejay/yuicompressor-bin",
     "description": "yuicompressor jar file ready for composer and packagist. Javascript and CSS minification.",
+    "license": "BSD-3-Clause",
     "homepage": "https://github.com/denisdeejay/yuicompressor-bin",
     "keywords": ["yui", "compressor", "javascript", "css", "minification", "jar", "assetic" ],
     "authors": [
@@ -9,7 +10,8 @@
             "homepage": "http://yuilibrary.com"
         },        {
             "name": "Denis METRAL",
-            "email": "denisdeejay@gmail.com"
+            "email": "denisdeejay@gmail.com",
+            "role": "maintainer"
         }
     ],
     "require": {},
